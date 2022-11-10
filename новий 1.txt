@@ -1,4 +1,9 @@
 12 test 071022
+
+
+
+
+I am learning (studing) the branche now.
 Наиболее важные команды SQL:
 
 SELECT – извлекает данные из базы данных,
@@ -43,4 +48,4 @@ Ctrl + D Дублировать текущую строку
 Ctrl + Y Удалить строку в точке вставки
 Alt + Insert Создать код...
 
-Pochemu 
+Pochemu - vse potomu potomu
